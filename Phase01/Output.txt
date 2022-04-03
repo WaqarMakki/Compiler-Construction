@@ -1,0 +1,42 @@
+<int, keyword >
+< <>, <> >
+< {, { >
+<float, keyword >
+< ata_, id >
+< =:=, =:= >
+< 10, number >
+< :, : >
+<bool, keyword >
+< olb_b, id >
+< [, [ >
+< 10, number >
+< ], ] >
+<loop, keyword >
+< <, < >
+< !=, != >
+< 0, number >
+< a_a, id >
+< =>, => >
+< 7., >  >
+< 5, number >
+< :, : >
+< a_, id >
+< ++, ++ >
+< >, >  >
+< {, { >
+<agar, keyword >
+< <, < >
+< _a, id >
+< =:=r, =:= >
+< 2., >  >
+< 2, number >
+< +5, number >
+< >, >  >
+< _a, id >
+< ==, == >
+< 1., >  >
+< 2, number >
+< -3, number >
+< >>, >> >
+< ::, :: >
+< }, } >
